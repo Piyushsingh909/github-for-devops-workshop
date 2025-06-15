@@ -6,3 +6,11 @@ git restore (file name) ---- restoring the deleted file
 git remote add origin 
 git push origin master
 git clone (copy link code repositary)
+
+
+
+
+
+
+
+new changes
