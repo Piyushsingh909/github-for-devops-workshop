@@ -1,0 +1,8 @@
+git add <file name>
+git add. ----- there will add all file 
+git init ---initialized the empty git respository
+git status ---- to check status git (version control system)
+git restore (file name) ---- restoring the deleted file
+git remote add origin 
+git push origin master
+git clone (copy link code repositary)
